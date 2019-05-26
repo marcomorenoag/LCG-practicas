@@ -1,0 +1,13 @@
+﻿  Main_prac9.cpp
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(308): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(543): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(550): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(556): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(562): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(821): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(822): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(826): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(827): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(829): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\cgi01\source\repos\project1\project1\main_prac9.cpp(830): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Project1.vcxproj -> C:\Users\CGI01\source\repos\Project1\Debug\Project1.exe
